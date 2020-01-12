@@ -12,4 +12,4 @@ This is a super lightweight script, designed to warn players who join the server
 - Open up the config.lua and change the setting from True to False depending on if you want the chat warnings to display for the user
 
 ### Step 4
-Add the line "start colorwarning" to your server.cfg, and boot up the server!
+ - Add the line "start colorwarning" to your server.cfg, and boot up the server!
